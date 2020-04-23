@@ -1,0 +1,17 @@
+{
+  "name": "express-boilerplate",
+  "version": "1.0.0",
+  "description": "This is Pichayuth's personal express boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pichayuth Kittisriswai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
